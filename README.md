@@ -6,7 +6,7 @@
 ```
 class Solution {
   public static void main(String[] args) throws FileNotFoundException {
-      Scanner sc = new Scanner(new File("input.txt"));
+      Scanner sc = new Scanner(new File("input_pgname.txt"));
 
       // do something ..
 
